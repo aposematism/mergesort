@@ -5,4 +5,6 @@ Four implementations of a sorting algorithm.
 2. Sequential Mergesort.
 3. Forkjoin Mergesort.
 4. Future based Mergesort.
+
 A number of tests using floats, strings, int etc have been implemented to test the relative efficiency of the different algorithms.
+Effectively it demonstrates the careful thinking necessary to properly implement concurrent or parallel algorithms.
